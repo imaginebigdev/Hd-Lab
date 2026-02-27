@@ -29,11 +29,11 @@ export function Footer() {
           <div>
             <Link href="/" className="inline-block mb-6">
               <Image 
-                src="/images/logo-light.png"
+                src="/logo-light.png"
                 alt="HDLab - Laboratorio de Control de Calidad"
                 width={160}
                 height={48}
-                className="h-10 w-auto brightness-0 invert"
+                className="h-10 w-auto"
               />
             </Link>
             <p className="text-sm opacity-80 leading-relaxed mb-6">

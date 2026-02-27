@@ -24,7 +24,7 @@ export function Header() {
         <div className="flex items-center justify-between h-16 md:h-20">
           <Link href="/" className="flex items-center">
             <Image 
-              src="/images/logo-light.png"
+              src="/logo-light.png"
               alt="HDLab - Laboratorio de Control de Calidad"
               width={160}
               height={48}
