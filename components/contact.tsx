@@ -41,7 +41,7 @@ export function Contact() {
               <div>
                 <h3 className="font-semibold mb-1">Ubicación</h3>
                 <p className="text-muted-foreground text-sm leading-relaxed">
-                  Buenos Aires, Argentina
+                  Cipolletti, Río Negro, Argentina
                 </p>
               </div>
             </div>
@@ -52,7 +52,7 @@ export function Contact() {
               </div>
               <div>
                 <h3 className="font-semibold mb-1">Teléfono</h3>
-                <p className="text-muted-foreground text-sm">+54 11 1234-5678</p>
+                <p className="text-muted-foreground text-sm">+54 9 2995 32-6069</p>
               </div>
             </div>
 
@@ -62,7 +62,7 @@ export function Contact() {
               </div>
               <div>
                 <h3 className="font-semibold mb-1">Email</h3>
-                <p className="text-muted-foreground text-sm">info@hdlab.com.ar</p>
+                <p className="text-muted-foreground text-sm">hugojavier.diaz@hdlaboratorio.com</p>
               </div>
             </div>
 

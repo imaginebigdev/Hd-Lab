@@ -41,7 +41,7 @@ export function Footer() {
               Más de 15 años brindando resultados confiables.
             </p>
             <p className="text-sm opacity-60">
-              Buenos Aires, Argentina
+              Cipolletti, Río Negro, Argentina
             </p>
           </div>
 
@@ -99,8 +99,8 @@ export function Footer() {
             © {new Date().getFullYear()} HDLab. Todos los derechos reservados.
           </p>
           <div className="flex gap-6">
-            <span className="text-sm opacity-60">info@hdlab.com.ar</span>
-            <span className="text-sm opacity-60">+54 11 1234-5678</span>
+            <span className="text-sm opacity-60">hugojavier.diaz@hdlaboratorio.com</span>
+            <span className="text-sm opacity-60">+54 9 2995 32-6069</span>
           </div>
         </div>
       </div>
